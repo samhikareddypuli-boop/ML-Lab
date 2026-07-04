@@ -9,6 +9,7 @@ X = [[22, 0], [25, 1], [47, 1], [52, 0], [46, 1], [56, 0], [48, 1], [33, 0]]
 # Target (0 = No, 1 = Yes)
 y = [0, 0, 1, 1, 1, 1, 1, 0]
 
+
 # Split dataset
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.25, random_state=42
