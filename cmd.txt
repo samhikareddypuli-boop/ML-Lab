@@ -1,0 +1,235 @@
+Microsoft Windows [Version 10.0.26200.8655]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 1>python meanNumbers.py
+Mean = 30.0
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 1>python medianNumbers.py
+Median = 30
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 1>python modeNumbers.py
+Mode = 20
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 1>python varianceNumbers.py
+Variance = 200.0
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 1>python SDNumbers.py
+Standard Deviation = 14.142135623730951
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 1>python All.py
+Enter numbers separated by space: 10 20 30 40 50
+
+----- Statistical Measures -----
+Mean = 30.0
+Median = 30.0
+Mode = 10.0
+Variance = 250.0
+Standard Deviation = 15.811388300841896
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 1>python All.py
+Enter numbers separated by space: 10 20 30 40 50
+
+----- Statistical Measures -----
+Mean = 30.0
+Median = 30.0
+Mode = 10.0
+Variance = 250.0
+Standard Deviation = 15.811388300841896
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 1>cd..
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab>cd Lab 2
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2>python All.py
+Mean: 30
+Median: 30
+Mode: 10
+Variance: 250
+Standard Deviation: 15.811388300841896
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2>python AllLibraries.py
+Traceback (most recent call last):
+  File "C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2\AllLibraries.py", line 3, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2>python mathLibrary.py
+Square Root: 5.0
+Power (5^2): 25.0
+Factorial of 5: 120
+Value of Pi: 3.141592653589793
+Value of e: 2.718281828459045
+Ceil of 4.3: 5
+Floor of 4.7: 4
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2>python numpyLibrary.py
+Traceback (most recent call last):
+  File "C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2\numpyLibrary.py", line 1, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2>python scipyLibrary.py
+Traceback (most recent call last):
+  File "C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2\scipyLibrary.py", line 1, in <module>
+    from scipy import stats
+ModuleNotFoundError: No module named 'scipy'
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2>python statsLibrary.py
+Mean: 30
+Median: 30
+Mode: 10
+Variance: 250
+Standard Deviation: 15.811388300841896
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2>python SciPyLibrary.py
+Traceback (most recent call last):
+  File "C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2\SciPyLibrary.py", line 1, in <module>
+    from scipy import stats
+ModuleNotFoundError: No module named 'scipy'
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2>python NumPyLibrary.py
+Traceback (most recent call last):
+  File "C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2\NumPyLibrary.py", line 1, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2>python ExampleNumPyLibrary.py
+Traceback (most recent call last):
+  File "C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2\ExampleNumPyLibrary.py", line 1, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2>python ExampleNumPyLibrary.py
+Array: [10 20 30 40 50]
+Sum: 150
+Mean: 30.0
+Maximum: 50
+Minimum: 10
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2>python SciPyLibrary.py
+python: can't open file 'C:\\Users\\samhi\\OneDrive\\Desktop\\ML Lab\\Lab 2\\SciPyLibrary.py': [Errno 2] No such file or directory
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2>python ExampleLibraries.py
+=== Statistics Library ===
+Mean: 30
+Median: 30
+Mode: 10
+
+=== Math Library ===
+Square Root of 25: 5.0
+Factorial of 5: 120
+Value of Pi: 3.141592653589793
+
+=== NumPy Library ===
+Array: [10 20 30 40 50]
+Sum: 150
+Mean: 30.0
+Maximum: 50
+Minimum: 10
+
+=== SciPy Library ===
+Mean: 30.0
+Variance: 250.0
+Standard Deviation: 15.811388300841896
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2>python ExampleSciPyLibrary.py
+Mean: 30.0
+Variance: 250.0
+Standard Deviation: 15.811388300841896
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 2>cd..
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab>cd Lab 3
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 3>python matplotlibLibrary.py
+Traceback (most recent call last):
+  File "C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 3\matplotlibLibrary.py", line 1, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 3>python pandaslibLibrary.py
+python: can't open file 'C:\\Users\\samhi\\OneDrive\\Desktop\\ML Lab\\Lab 3\\pandaslibLibrary.py': [Errno 2] No such file or directory
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 3>python pandaslibLibrary.py
+python: can't open file 'C:\\Users\\samhi\\OneDrive\\Desktop\\ML Lab\\Lab 3\\pandaslibLibrary.py': [Errno 2] No such file or directory
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 3>python pandasLibrary.py
+      Name  Marks
+0    Alice     85
+1      Bob     90
+2  Charlie     78
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 3>python matplotlibLibrary.py
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 3>python linegraph.py
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 3>python bargraph.py
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 3>python piechart.py
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 3>python columnchart.py
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 3>cd..
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab>python linearRegression.py
+python: can't open file 'C:\\Users\\samhi\\OneDrive\\Desktop\\ML Lab\\linearRegression.py': [Errno 2] No such file or directory
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab>cd Lab 4
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 4>python linearRegression.py
+Traceback (most recent call last):
+  File "C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 4\linearRegression.py", line 4, in <module>
+    from sklearn.linear_model import LinearRegression
+ModuleNotFoundError: No module named 'sklearn'
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 4>python linearRegression.py
+Slope: 0.6
+Intercept: 2.2
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 4>cd..
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab>cd Lab 5
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 5>python multipleLinearRegression.py
+C:\Users\samhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2827: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+Predicted House Price = 469158.87850467284
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 5>python multipleLinearRegression.py
+C:\Users\samhi\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2827: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+Predicted House Price = 469158.87850467284
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 5>cd..
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab>cd Lab 6
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 6>python decisionTree.py
+Accuracy: 1.0
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 6>cd..
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab>cd Lab 7
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 7>python decisionTree1.py
+Accuracy: 1.0
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 7>cd..
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab>cd Lab 8
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 8>python logisticRegression.py
+Accuracy: 1.0
+Prediction for Age 42: 1
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 8>cd..
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab>cd Lab 9
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 9>python k-meansClustering.py
+Cluster Labels: [1 1 1 0 0 0]
+Cluster Centers:
+[[8.33333333 7.66666667]
+ [2.         2.66666667]]
+
+C:\Users\samhi\OneDrive\Desktop\ML Lab\Lab 9>
